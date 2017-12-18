@@ -1,10 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jorge
- * Date: 15/12/17
- * Time: 18:00
- */
+
+namespace Source;
+
+use PDO;
 
 class Conn implements IConn
 {

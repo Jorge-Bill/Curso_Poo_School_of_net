@@ -1,0 +1,11 @@
+{
+  "name": "Curso_Poo_School_of_net",
+  "version": "0.0.1",
+
+  "autoload": {
+    "psr-4": {"Source\\":"src/Source"}
+  },
+  "require": {
+    "pimple/pimple": "^3.0"
+  }
+}
